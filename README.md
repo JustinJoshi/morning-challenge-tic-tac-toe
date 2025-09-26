@@ -13,7 +13,7 @@ Link to project: https://justintictactoe.netlify.app/
 alt tag
 How It's Made:
 
-Tech used: HTML, CSS, JavaScript, Framework of choice
+Tech used: HTML, CSS, JavaScript
 
 I used very simple javascript objects and if statements to create the logic of this code
 
