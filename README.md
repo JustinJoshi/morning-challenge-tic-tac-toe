@@ -4,7 +4,7 @@ I feel good about my code: 2
 I loved making the project, however i realized many ways that i could make it better
 ```
 
-My Awesome Project
+Tic Tac Toe
 
 This is a simple tic tac toe game!
 
